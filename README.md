@@ -8,7 +8,7 @@ Note that contents in the repository are **NOT** official solutions; only intend
 
 There should inevitably be mistakes and places that need improvements. Pull requests or issues are welcome.
 
-# Table of Contents
+## Table of Contents
 
 [Chapter 3](./Chapter_3.md)
 
