@@ -5,7 +5,6 @@ date: 2019.7.9
 description: CLRS Chapter 3 Reference Answer
 tags: algorithms, data structures
 keywords: algorithms, data structures
-use_math: true
 ---
 
 # CLRS Chapter 3 Reference Answer
